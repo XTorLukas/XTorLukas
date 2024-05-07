@@ -2,9 +2,9 @@
 
 <img align='left' src='https://user-images.githubusercontent.com/84145589/214152486-f6d8ae4a-3d42-4291-b38a-a8e33d77331d.png' width='250' background='white'>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LastuvkaLukas&show_icons=true&theme=transparent)](https://github.com/XTorLukas)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XTorLukas&show_icons=true&theme=transparent)](https://github.com/XTorLukas)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LastuvkaLukas&show_icons=true&theme=transparent)](https://github.com/XTorLukas)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XTorLukas&show_icons=true&theme=transparent)](https://github.com/XTorLukas)
 
 <!--
 **LastuvkaLukas/LastuvkaLukas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
